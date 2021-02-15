@@ -1,0 +1,1 @@
+void transpose(int m, int n, int matrix[][n], int transp[][m]) ;
