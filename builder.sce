@@ -7,8 +7,8 @@ mode(-1);
 lines(0);
 
 function main_builder()
-    TOOLBOX_NAME  = "test_toolbox";
-    TOOLBOX_TITLE = "test_toolbox";
+    TOOLBOX_NAME  = "trans_toolbox";
+    TOOLBOX_TITLE = "trans_toolbox";
     toolbox_dir   = get_absolute_file_path("builder.sce");
 
     // Check Scilab's version
